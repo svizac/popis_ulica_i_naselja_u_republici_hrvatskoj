@@ -1,6 +1,6 @@
 Popis svih ulica i naselja u Republici Hrvatskoj
 
-Popis na dan 3.10.2016
+Popis na dan 19.7.2017
 
 Popis ulica sadrži županiju, općinu/grad, naselje, ulicu
 
